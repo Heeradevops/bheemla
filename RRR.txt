@@ -1,0 +1,2 @@
+seat 1
+seat 2
